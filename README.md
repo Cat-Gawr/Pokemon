@@ -98,7 +98,8 @@ il 20 aprile ci sarà un nuovo aggiornamento del file in README.md che sarà anc
     - NetBeans 
 
     ALTRI IDE IN FUTURO,ANDARE A VEDERE :
-https://github.com/Cat-Gawr/News-app/edit/main/README.md
+   
+(https://github.com/Cat-Gawr/News-app)
 
 https://github.com/Cat-Gawr/AI-Python
 
