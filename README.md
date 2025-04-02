@@ -33,6 +33,8 @@ E | Change Magic
 
 M | Toggle Upgrade Menu
 
+---------------------------------------
+
 IDE utilizzati :
 1 ) Visual Studio Code
 
@@ -42,7 +44,7 @@ IDE utilizzati :
 
 3 . 5 ) NeoVim
 
-4 ) KWrite
+4 ) KWrite ----> ( ❗ non su windows )
 
 About the game / FAQ
 1 . sarà gratis ? si
