@@ -44,7 +44,11 @@ il 20 aprile ci sarà un nuovo aggiornamento del file in README.md che sarà anc
       - il Fork di VsCode ovvero  VSCodium
    
     - PyCharm
-    
+
+    - Godot
+  
+    - Unity Hub ( ❗ Forse non è possibile ma vabbè ) 
+
     - Sublime Text
     
     - Notepad++
@@ -63,3 +67,26 @@ https://github.com/Cat-Gawr/News-app/edit/main/README.md
 https://github.com/Cat-Gawr/AI-Python
 
 
+# ABOUT THIS GAME :
+questo gioco è una specie di pokemon, io non voglio copiare
+assoulatamente la casa giapponese Nintendo ma voglio semplicmente
+creare una ( appunto ) specie di Pokemon, la struttura
+del gioco sarà codificata su VsCODE e VIM.
+
+i nomi :
+
+1- Pocoman Blu
+
+2- Pocaman 1° rosso
+
+-----------------------------------------
+
+>[!IMPORTANT]
+>il gioco NON sarà possibile modificarlo su Visual Basic
+>
+>per maggiore problemi non usare Vs B ma VsCode o VIM
+>
+
+----------------------------------------
+
+NON - COPYRUGHT . PROGETTO FREE PER TUTTI           -   2025
