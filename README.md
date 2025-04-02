@@ -18,6 +18,40 @@ gioco ufficiale ma sul app di news ( https://github.com/Cat-Gawr/News-app )
 >molto per questo ritardo di 2 giorni.
 >
 ----------------------------------------
+Controlli
+Key | Description
+
+Arrow Keys | Move
+
+Space Bar | Attack
+
+Left Control | Magic
+
+Q | Change Weapon
+
+E | Change Magic
+
+M | Toggle Upgrade Menu
+
+IDE utilizzati :
+1 ) Visual Studio Code
+
+2 ) Atom
+
+3 ) VIm
+
+3 . 5 ) NeoVim
+
+4 ) KWrite
+
+About the game / FAQ
+1 . sarà gratis ? si
+
+2 . sarà compatibile anche con sistemi operativi vecchi come windows Vista? si , ma sarà molto compliccato
+
+3 . dove sarà pubblicato ? qua su github
+
+----------------------------------------
 
 # API :
 >[!WARNING]
