@@ -42,9 +42,10 @@ IDE utilizzati :
 
 3 ) VIm
 
-3 . 5 ) NeoVim
+( per una persna che lo sta chiedendo , ma se io utilizzo windows come faccio a usare vim?bro- esiste WSL {Windows Subsystem for Linux} con debian )
+ecco la verità   :
 
-4 ) KWrite ----> ( ❗ non su windows )
+![Image](https://github.com/user-attachments/assets/f83f907b-e96d-4630-a7ff-f4bcbbf0a48c)
 
 About the game / FAQ
 1 . sarà gratis ? si
