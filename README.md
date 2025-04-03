@@ -101,7 +101,7 @@ il 20 aprile ci sarà un nuovo aggiornamento del file in README.md che sarà anc
    
 (https://github.com/Cat-Gawr/News-app)
 
-https://github.com/Cat-Gawr/AI-Python
+(https://github.com/Cat-Gawr/AI-Python)
 
 
 # ABOUT THIS GAME :
@@ -125,5 +125,7 @@ i nomi :
 >
 
 ----------------------------------------
+
+p.s in questo gioco non ci sarà nessun AI ( il prossimo progetto sarà una nuova app)
 
 NON - COPYRUGHT . PROGETTO FREE PER TUTTI           -   2025
